@@ -1,6 +1,6 @@
 # Simulatore Caduta Massi (Rockfall Simulator)
 
-Questo repository contiene un'applicazione Python per la simulazione della caduta massi, sviluppata con Matplotlib per la visualizzazione e PyQt5 per l'interfaccia grafica (GUI). Il simulatore permette di modellare il movimento di uno o più massi su un pendio, calcolando le loro traiettorie, velocità ed energie, sia in caduta libera che a contatto con la superficie.
+Questo repository contiene un'applicazione Python per la simulazione della caduta massi, sviluppata con Matplotlib per la visualizzazione e PyQt5 per l'interfaccia grafica (GUI). Il simulatore permette di modellare il movimento di uno o più massi su un pendio, calcolando le loro traiettorie, velocità ed energie, sia in caduta libera che a contatto con la superficie. Tutto il codice è stato generato da Gemini AI con minimo intervento umano.
 
 ## Caratteristiche Principali
 
