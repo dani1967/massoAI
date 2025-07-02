@@ -71,10 +71,9 @@ Clona il repository (o scarica il file simulatore_masso_06.py):
 
 Bash
 ```
-git clone https://github.com/tuo_utente/nome_repo.git
-cd nome_repo
+git clone https://github.com/dani1967/massoAI.git
+cd massoAI
 ```
-(Sostituisci tuo_utente/nome_repo con il percorso effettivo del tuo repository su GitHub)
 
 ##Crea un ambiente virtuale (raccomandato):
 
